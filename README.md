@@ -76,12 +76,16 @@ Status: Developer system is fully operational and ready for deployment.
 <h2 align="center"> 🏆 DASHBOARD: SYSTEM METRICS </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SPY-DEEP-06&show_icons=true&title_color=00ffff&icon_color=ff00ff&text_color=ffffff&bg_color=0d1117&border_color=ff00ff&hide_border=false&border_radius=10&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SPY-DEEP-06&theme=radical&background=0d1117&ring=00ffff&fire=ff00ff&currStreakNum=ffffff&border=ff00ff&stroke=ff00ff" alt="GitHub Streak" width="48%" />
+  <a href="https://github.com/SPY-DEEP-06">
+    <img src="https://github-readme-stats.vercel.app/api?username=SPY-DEEP-06&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff" alt="GitHub Stats" width="48%" />
+  </a>
+  <a href="https://github.com/SPY-DEEP-06">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SPY-DEEP-06&theme=radical&background=0d1117&ring=00ffff&fire=ff00ff&currStreakNum=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
+  </a>
 </div>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/SPY-DEEP-06/bg_1.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SPY-DEEP-06&color=ff00ff&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
 
 <br>
@@ -122,13 +126,13 @@ function hireDeepanshu(recruiter) {
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SPY-DEEP-06/SPY-DEEP-06/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SPY-DEEP-06/SPY-DEEP-06/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/refs/heads/master/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/refs/heads/master/github-contribution-grid-snake.svg">
     <!-- fallback image -->
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/SPY-DEEP-06/SPY-DEEP-06/main/assets/fallback-snake.svg" onerror="this.src='https://raw.githubusercontent.com/aungmyomin/aungmyomin/output/github-contribution-grid-snake-dark.svg';">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/refs/heads/master/github-contribution-grid-snake-dark.svg" width="100%">
   </picture>
   <br/>
-  <i>(Note: This requires the <a href="https://github.com/Platane/snk">GitHub Snake Action</a> to be set up on your repository!)</i>
+  <i>(Note: This is an example snake. To show YOUR snake, you must run the <a href="https://github.com/Platane/snk">GitHub Snake Action</a> on your repository, then update these links!)</i>
 </div>
 
 <br>
