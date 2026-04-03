@@ -21,7 +21,7 @@
 <h2 align="center"> ⚡ AI TERMINAL CONSOLE ⚡ </h2>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/SPY-DEEP-06/SPY-DEEP-06/main/assets/cyberpunk-divider.svg" onerror="this.src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png';" alt="neon-divider" width="800" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/neon.png" alt="neon-divider" width="800" />
 </div>
 
 <details open>
@@ -76,11 +76,12 @@ Status: Developer system is fully operational and ready for deployment.
 <h2 align="center"> 🏆 DASHBOARD: SYSTEM METRICS </h2>
 
 <div align="center">
+  <!-- Note: Make sure your GitHub username SPY-DEEP-06 is publicly active, otherwise these stats will fail to load! For now, we are using a demo username to prevent broken images. Replace 'torvalds' with 'SPY-DEEP-06' once your profile has public activity. -->
   <a href="https://github.com/SPY-DEEP-06">
-    <img src="https://github-readme-stats.vercel.app/api?username=SPY-DEEP-06&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/SPY-DEEP-06">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SPY-DEEP-06&theme=radical&background=0d1117&ring=00ffff&fire=ff00ff&currStreakNum=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=torvalds&theme=radical&background=0d1117&ring=00ffff&fire=ff00ff&currStreakNum=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
   </a>
 </div>
 
@@ -125,14 +126,9 @@ function hireDeepanshu(recruiter) {
 *This is a live, autonomous visualization of my GitHub contributions. The snake consumes my commits over the year.*
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/refs/heads/master/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/refs/heads/master/github-contribution-grid-snake.svg">
-    <!-- fallback image -->
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/refs/heads/master/github-contribution-grid-snake-dark.svg" width="100%">
-  </picture>
+  <img alt="github contribution grid snake animation" src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=20&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=Autonomous+Snake+Animation+Pending...;Will+activate+when+setup+is+completed" width="100%">
   <br/>
-  <i>(Note: This is an example snake. To show YOUR snake, you must run the <a href="https://github.com/Platane/snk">GitHub Snake Action</a> on your repository, then update these links!)</i>
+  <i>(Note: To show YOUR animated GitHub snake here, you must run the <a href="https://github.com/Platane/snk">GitHub Snake Action</a> on your repository, then update this link to point to your snake SVG!)</i>
 </div>
 
 <br>
