@@ -49,7 +49,7 @@ Make sure to commit the changes to see the dynamic widgets render!
 
 
 
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-%252300599C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" />
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%252B%252B-%252300599C.svg%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-14354C%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/JavaScript-F7DF1E%3Fstyle%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3Dblack" />
 <img src="https://www.google.com/search?q=https://img.shields.io/badge/TypeScript-007ACC%3Fstyle%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite" />
@@ -91,10 +91,6 @@ Make sure to commit the changes to see the dynamic widgets render!
 <!-- Synthwave themed stat cards for the Cyberpunk look -->
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DSPY-DEEP-06%26theme%3Dsynthwave%26show_icons%3Dtrue%26hide_border%3Dtrue%26count_private%3Dtrue" height="195" alt="GitHub Stats"/>
 <img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DSPY-DEEP-06%26theme%3Dsynthwave%26hide_border%3Dtrue" height="195" alt="GitHub Streak"/>
-</div>
-
-<div align="center">
-<i>"Code is poetry written for machines to execute and humans to understand."</i>
 </div>
 
 ▓▒░ INTERACTIVE_MODULE // CLASSIFIED ░▒▓
