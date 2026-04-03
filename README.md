@@ -77,12 +77,8 @@ Status: Developer system is fully operational and ready for deployment.
 
 <div align="center">
   <!-- Note: The main github-readme-stats server is temporarily experiencing global downtime (503 Service Unavailable). Once it recovers, you can change the URL below back to: https://github-readme-stats.vercel.app/api?username=SPY-DEEP-06&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ffff&icon_color=ff00ff -->
-  <a href="https://github.com/SPY-DEEP-06">
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1000&color=00FFFF&center=true&vCenter=true&width=400&lines=API+Stats+Server+Downtime;Retrying+Connection...;Will+Resume+Shortly" alt="GitHub Stats Disabled" width="48%" />
-  </a>
-  <a href="https://github.com/SPY-DEEP-06">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=SPY-DEEP-06&theme=radical&background=0d1117&ring=00ffff&fire=ff00ff&currStreakNum=ffffff&hide_border=true" alt="GitHub Streak" width="48%" />
-  </a>
+  <a href="https://github.com/SPY-DEEP-06"><img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=18&pause=1000&color=00FFFF&center=true&vCenter=true&width=450&height=195&lines=API+Stats+Server+Downtime;Retrying+Connection..." alt="GitHub Stats Disabled" height="195" /></a>
+  <a href="https://github.com/SPY-DEEP-06"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SPY-DEEP-06&theme=radical&background=0d1117&ring=00ffff&fire=ff00ff&currStreakNum=ffffff&hide_border=true" alt="GitHub Streak" height="195" /></a>
 </div>
 
 <div align="center">
